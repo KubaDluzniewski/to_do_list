@@ -17,7 +17,7 @@ This repository contains the source code for a basic To-Do application. Users ca
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/KubaDluzniewski/to_do_list.git
 
 ## Usage
 
